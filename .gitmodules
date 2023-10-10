@@ -22,3 +22,6 @@
 [submodule "account_service"]
 	path = account_service
 	url = https://github.com/AlexanderKolesnikow/account_service.git
+[submodule "notification_service"]
+	path = notification_service
+	url = https://github.com/AlexanderKolesnikow/notification_service.git
