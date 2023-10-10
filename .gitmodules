@@ -10,3 +10,6 @@
 [submodule "payment_service"]
 	path = payment_service
 	url = https://github.com/AlexanderKolesnikow/payment_service.git
+[submodule "url_shortener_service"]
+	path = url_shortener_service
+	url = https://github.com/AlexanderKolesnikow/url_shortener_service.git
