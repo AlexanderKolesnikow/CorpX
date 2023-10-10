@@ -13,3 +13,6 @@
 [submodule "url_shortener_service"]
 	path = url_shortener_service
 	url = https://github.com/AlexanderKolesnikow/url_shortener_service.git
+[submodule "achievement_service"]
+	path = achievement_service
+	url = https://github.com/AlexanderKolesnikow/achievement_service.git
