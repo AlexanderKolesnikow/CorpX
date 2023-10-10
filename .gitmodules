@@ -16,3 +16,6 @@
 [submodule "achievement_service"]
 	path = achievement_service
 	url = https://github.com/AlexanderKolesnikow/achievement_service.git
+[submodule "analytics_service"]
+	path = analytics_service
+	url = https://github.com/AlexanderKolesnikow/analytics_service.git
