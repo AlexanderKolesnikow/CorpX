@@ -1,3 +1,6 @@
 [submodule "user_service"]
 	path = user_service
 	url = https://github.com/AlexanderKolesnikow/user_service.git
+[submodule "post_service"]
+	path = post_service
+	url = https://github.com/AlexanderKolesnikow/post_service.git
