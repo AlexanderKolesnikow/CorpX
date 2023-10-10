@@ -25,3 +25,6 @@
 [submodule "notification_service"]
 	path = notification_service
 	url = https://github.com/AlexanderKolesnikow/notification_service.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/AlexanderKolesnikow/infra.git
