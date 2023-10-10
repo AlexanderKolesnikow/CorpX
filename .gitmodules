@@ -19,3 +19,6 @@
 [submodule "analytics_service"]
 	path = analytics_service
 	url = https://github.com/AlexanderKolesnikow/analytics_service.git
+[submodule "account_service"]
+	path = account_service
+	url = https://github.com/AlexanderKolesnikow/account_service.git
