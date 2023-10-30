@@ -17,6 +17,10 @@ Each service with functionalities implemented is equipped with Swagger for easy 
 ### [**Project Service:**](https://github.com/AlexanderKolesnikow/project_service/tree/master#readme)
 - 📁 [**ProjectResourceService**](https://github.com/AlexanderKolesnikow/project_service/blob/master/src/main/java/com/kite/kolesnikov/projectservice/service/ProjectResourceService.java)
    - Handles CRUD operations of project resources with AWS S3 integration and robust error-handling mechanisms.
+     
+### [**Notification Service:**](https://github.com/AlexanderKolesnikow/notification_service/tree/master#readme)
+- 🤖 [**TelegramBotService**](https://github.com/AlexanderKolesnikow/notification_service/tree/master/src/main/java/com/kite/kolesnikov/notificationservice/service/telegram)
+  - Powering Notifications in CorpX
 
 ## 🛠 Technologies Utilized
 
